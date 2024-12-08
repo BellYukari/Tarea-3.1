@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "647570953854",
+    "firebase_url": "https://testproject-3d617-default-rtdb.firebaseio.com",
+    "project_id": "testproject-3d617",
+    "storage_bucket": "testproject-3d617.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647570953854:android:e1e89a2d95a3cce07b6a2f",
+        "android_client_info": {
+          "package_name": "com.companyname.mauifirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8LXMN-inbotTMae-HMou7h2Vz7Rj2a8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647570953854:android:e17037ecd20251d47b6a2f",
+        "android_client_info": {
+          "package_name": "com.example.fbasevideo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8LXMN-inbotTMae-HMou7h2Vz7Rj2a8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
