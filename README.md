@@ -1,4 +1,4 @@
-# Programacion Movil 2 - Tarea 3.2📱
+# Programacion Movil 2 - Tarea 3.1📱
 
 ## Integrantes - Grupo1 📱
 
