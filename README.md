@@ -9,3 +9,5 @@
 - [x] Cristopher  Reyes - 201310011022
 <br><br>
 ****
+## Video 📱
+https://github.com/user-attachments/assets/1f60ac8a-e184-43a8-975c-08beb5c14e73
